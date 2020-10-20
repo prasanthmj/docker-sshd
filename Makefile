@@ -1,6 +1,6 @@
 NAME := sshd
 TAG := latest
-IMAGE_NAME := panubo/$(NAME)
+IMAGE_NAME := prasanthmj/$(NAME)
 
 .PHONY: help build push clean
 
